@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Etude PREVCOPS"
-excerpt: "Cohorte clinico-biologique pour la PRÉVention des carcinomes épidermoïdes de la cavité orale par analyse de Cytobrosses Orales de Patients Sains"
+title: "Etude DEMO"
+excerpt: "Etude des Drivers de l’Evolution somatique dans la Muqueuse Orale et influence du tabac et de l’alcool"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-Cohorte clinico-biologique pour la <b>PRÉV</b>ention des carcinomes épidermoïdes de la cavité orale par analyse de <b>C</b>ytobrosses <b>O</b>rales de <b>P</b>atients <b>S</b>ains
+Étude des <b>D</b>rivers de l’<b>É</b>volution somatique dans la <b>M</b>uqueuse <b>O</b>rale et influence du tabac et de l’alcool
 
 ---
 Les cancers de la tête et du cou représentent plus de 500 000 cas par an dans le monde, et impliquent souvent une rechute après traitement. Le site le plus fréquent est la cavité orale, mais les stades précoces de la maladie sont encore mal caractérisés et mal détectés. L’objectif de l’étude est de mieux comprendre l’évolution somatique de la muqueuse orale, et comment elle peut éventuellement donner lieu à l’apparition de carcinomes épidermoïdes de la cavité orale (CECO).
@@ -30,4 +30,4 @@ Objectifs secondaires :
 
 ---
 
-Ce site a également pour but de fournir l'information sur toute utilisation des données dans des [publications](https://prevcops.github.io/publications/) et/ou de [nouvelles recherches](https://prevcops.github.io/donnees/) .
+Ce site a également pour but de fournir l'information sur toute utilisation des données dans des [publications](https://etude-demo.github.io/publications/) et/ou de [nouvelles recherches](https://etude-demo.github.io/donnees/) .
