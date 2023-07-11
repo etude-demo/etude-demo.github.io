@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Etude DEMO"
-excerpt: "Etude des Drivers de l’Evolution somatique dans la Muqueuse Orale et influence du tabac et de l’alcool"
+excerpt: "Influence du tabac et de l’alcool sur les Drivers oncogéniques et l’Évolution somatique dans la Muqueuse Orale"
 author_profile: true
 redirect_from:
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-Étude des <b>D</b>rivers de l’<b>É</b>volution somatique dans la <b>M</b>uqueuse <b>O</b>rale et influence du tabac et de l’alcool
+Influence du tabac et de l’alcool sur les <b>D</b>rivers oncogéniques et l’<b>É</b>volution somatique dans la <b>M</b>uqueuse <b>O</b>rale
 
 ---
 Les cancers de la tête et du cou représentent plus de 500 000 cas par an dans le monde, et impliquent souvent une rechute après traitement. Le site le plus fréquent est la cavité orale, mais les stades précoces de la maladie sont encore mal caractérisés et mal détectés. L’objectif de l’étude est de mieux comprendre l’évolution somatique de la muqueuse orale, et comment elle peut éventuellement donner lieu à l’apparition de carcinomes épidermoïdes de la cavité orale (CECO).
@@ -19,14 +19,19 @@ DEMO est une étude de cohorte multicentrique, descriptive, de catégorie RIPH3 
 ---
 
 Objectif principal :
-1.	Identifier les gènes drivers connus des CECO sous sélection positive dans la muqueuse saine
+1.	Déterminer si la consommation de tabac impacte le nombre de mutations non-synonymes des drivers CECO dans la muqueuse saine
 
 ---
 
 Objectifs secondaires :
-1.	Analyser l’impact du tabac sur le nombre et le type de mutations dans la muqueuse saine
-1.	Analyser l’impact de l’alcool sur le nombre et le type de mutations dans la muqueuse saine
-1.	Identification de gènes non-drivers susceptibles d’être positivement sélectionnés
+1.	Quantifier l’impact de la consommation de tabac sur le nombre total de mutations dans la muqueuse saine
+1.	Quantifier l’impact de la consommation d’alcool sur le nombre total de mutations dans la muqueuse saine
+
+---
+
+Objectifs exploratoires :
+1.	Identifier les gènes drivers connus des CECO sous sélection positive dans la muqueuse saine
+1.	Identification de gènes non-drivers susceptibles d’être sous sélection positive
 
 ---
 
